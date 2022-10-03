@@ -16,7 +16,27 @@ section {
     margin: auto;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
 }
-
+input{
+    border-radius: 5px;
+    margin-left: 10px;
+    width: 70px;
+    text-align: center;
+    height: 25px;
+    background-color: #c9e6ff;
+    border: 0;
+}
+#dados p{
+    display:inline-block;
+    width: 50px;
+    text-align:right;
+}
+#enter{
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 15px;
+    height: 35px;
+    cursor: pointer;
+}
 footer {
     color: white;
     text-align: center;
